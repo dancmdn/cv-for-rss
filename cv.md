@@ -12,3 +12,4 @@
     * HTML
     * CSS
     * JS
+5. English: A2 (pre-intermediate)
